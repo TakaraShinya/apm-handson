@@ -12,3 +12,17 @@ dependencies:
   package_type: marketplace_plugin
   content_hash: sha256:d7cac32de67fa12785a17ed890e687c1194799481e98372c3f0d73fb73168b67
   declared_license: MIT
+- repo_url: ry0y4n/evil-sample-skill
+  name: evil-hello
+  host: github.com
+  resolved_commit: 6272552ecd2b70f692ef242195f4a33b78d62777
+  version: 1.0.0
+  virtual_path: skills/hello
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .agents/skills/hello
+  - .agents/skills/hello/SKILL.md
+  deployed_file_hashes:
+    .agents/skills/hello/SKILL.md: sha256:0d457af50a2795804f041bcfa36606abc4183ce344c425b61e7171cc879cd23b
+  content_hash: sha256:db1be04a30e6a142cc98613b239d29e59ece1eaab5ab2a320c7115e2559c7e69

@@ -5,6 +5,7 @@ author: takara_shinya　[Administrator]
 dependencies:
   apm:
   - github/awesome-copilot/plugins/context-engineering
+  - ry0y4n/evil-sample-skill/skills/hello
   mcp: []
 includes: auto
 scripts: {}
