@@ -1,0 +1,14 @@
+lockfile_version: '1'
+generated_at: '2026-06-26T08:13:42.103963+00:00'
+apm_version: 0.22.0
+dependencies:
+- repo_url: github/awesome-copilot
+  name: context-engineering
+  host: github.com
+  resolved_commit: cd420ca862a301755a32ed76d53611bd5e04de30
+  version: 1.0.0
+  virtual_path: plugins/context-engineering
+  is_virtual: true
+  package_type: marketplace_plugin
+  content_hash: sha256:d7cac32de67fa12785a17ed890e687c1194799481e98372c3f0d73fb73168b67
+  declared_license: MIT

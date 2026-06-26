@@ -1,0 +1,10 @@
+name: apm-handson
+version: 1.0.0
+description: APM project for apm-handson
+author: takara_shinya　[Administrator]
+dependencies:
+  apm:
+  - github/awesome-copilot/plugins/context-engineering
+  mcp: []
+includes: auto
+scripts: {}
